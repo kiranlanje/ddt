@@ -1,0 +1,6 @@
+DDT assignments
+1. DDT with jxl.jar on yahoo
+2. DDT with POI
+3. DDT with MySQL database
+4. DDT with XML
+5. DDT with CSV with opencsv.jar and with Java only both
